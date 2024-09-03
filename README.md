@@ -1,7 +1,7 @@
 # Swift CLI Experiments
 Scratchpad to play around with Swift command line tools before breaking them out.
 
-Most of these are based on the '[Swift command line tutorial](https://www.swift.org/getting-started/cli-swiftpm/).
+Most of these are based on the [Swift command line tutorial](https://www.swift.org/getting-started/cli-swiftpm/).
 
 ## count
 
